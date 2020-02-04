@@ -39,12 +39,12 @@ That should be enough swap to complete any future compiles I may do in the futur
 
 ```
 
-总结:
+# 总结:
   1. 修改配置文件
-      sudo nano /etc/dphys-swapfile
-      CONF_SWAPSIZE=100 //把 100M 改成 2048,或者4096,单位M
-  2.  sudo systemctl restart dphys-swapfile
-  3. free -h   查看结果
+      sudo nano /etc/dphys-swapfile  
+      CONF_SWAPSIZE=100 //把 100M 改成 2048,或者4096,单位M  
+  2.  sudo systemctl restart dphys-swapfile    
+  3.  free -h   查看结果  
   
       
 
