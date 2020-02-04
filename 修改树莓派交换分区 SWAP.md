@@ -1,6 +1,6 @@
 
-[修改树莓派交换分区 SWAP](http://shumeipai.nxez.com/2017/12/18/how-to-modify-raspberry-pi-swap-partition.html)
-[How to change Raspberry Pi's Swapfile Size on Raspbian](http://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/)
+[修改树莓派交换分区 SWAP](http://shumeipai.nxez.com/2017/12/18/how-to-modify-raspberry-pi-swap-partition.html)  
+[How to change Raspberry Pi's Swapfile Size on Raspbian](http://www.bitpi.co/2015/02/11/how-to-change-raspberry-pis-swapfile-size-on-rasbian/)   
 
 ```
 
